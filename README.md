@@ -1,2 +1,4 @@
 # Temperature-Sim
-My final university project
+My final university project - A temperature simulation
+
+#Setup
