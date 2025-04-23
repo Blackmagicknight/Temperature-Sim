@@ -31,21 +31,31 @@ My final university project - A temperature simulation
   Thermal temperature view | Biome chunk border view
 </h5>
 
+<br><br>
+
+<h4>Basic text and binary file input/output</h4>
+<h5 align="center">
+  <img src="https://imgur.com/AitYNlw.png alt="temperature" style="height: 400px""></img>
+  <br>
+  Reads and writes binary data
+</h5>
+
+<br><br>
+
 <h4>Temperature simulation</h4>
 <h5 align="center">
-  <img src="https://imgur.com/jWIOO2L.png alt="temperature" style="height: 200px""></img>
+  <img src="https://imgur.com/jWIOO2L.png alt="temperature" style="height: 300px""></img>
+  <img src="https://imgur.com/JZIpwrh.png alt="code" style="height: 300px""></img>
   <br>
   Uses data from perth weather
 </h5>
 
-<h4>Basic text and binary file input/output</h4>
-
 ## Sources
 
-'''
+```
 https://www.geeksforgeeks.org/python-gui-tkinter
 https://www.javatpoint.com/python-tkinter-button
 https://stackoverflow.com/questions/10787103/2d-hsv-color-space-in-matplotlib
 https://www.australia.com/en/facts-and-planning/weather-in-australia/perth-weather.html
 https://github.com/BilHim/minecraft-world-generation/blob/main/src/Minecraft%20Terrain%20Generation%20in%20Python%20-%20By%20Bilal%20Himite.ipynb
-'''
+```
