@@ -14,6 +14,19 @@ My final university project - A temperature simulation
 
 - Simple graphical interface
 <h3 align="center">
-  <img src="https://imgur.com/Ghnd707.png alt="image""></img><br>
-  Random seeds | Changeable seasons | Heat/Chunk border view
+  <img src="https://imgur.com/Ghnd707.png alt="image" style="height: 200px""></img>
+  <img src="https://imgur.com/nktxxmC.png alt="image" style="height: 200px"></img>
+  <br>
+  Random seeds | Changeable seasons
+</h3>
+
+<br><br>
+
+- procedurally generated worlds & biomes
+<h3 align="center">
+  <img src="https://imgur.com/JtaglHW.png alt="source" style="height: 200px""></img>
+  <img src="https://imgur.com/B3lKsCj.png alt="heat view" style="height: 200px"></img>
+  <img src="https://imgur.com/yuEvv7L.png alt="chunk view" style="height: 200px"></img>
+  <br>
+  Thermal temperature view | Biome chunk border view
 </h3>
