@@ -12,7 +12,7 @@ My final university project - A temperature simulation
 
 ## Features
 
-- Simple graphical interface
+<h4>- Simple graphical interface</h4>
 <h3 align="center">
   <img src="https://imgur.com/Ghnd707.png alt="image" style="height: 200px""></img>
   <img src="https://imgur.com/nktxxmC.png alt="image" style="height: 200px"></img>
