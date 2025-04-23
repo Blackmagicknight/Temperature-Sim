@@ -12,21 +12,21 @@ My final university project - A temperature simulation
 
 ## Features
 
-<h4>- Simple graphical interface</h4>
-<h3 align="center">
-  <img src="https://imgur.com/Ghnd707.png alt="image" style="height: 200px""></img>
-  <img src="https://imgur.com/nktxxmC.png alt="image" style="height: 200px"></img>
+<h4>Simple graphical interface</h4>
+<h5 align="center">
+  <img src="https://imgur.com/Ghnd707.png alt="start" style="height: 200px""></img>
+  <img src="https://imgur.com/nktxxmC.png alt="manage" style="height: 200px"></img>
   <br>
   Random seeds | Changeable seasons
-</h3>
+</h5>
 
 <br><br>
 
-- procedurally generated worlds & biomes
-<h3 align="center">
+<h4>procedurally generated worlds & biomes</h4>
+<h5 align="center">
   <img src="https://imgur.com/JtaglHW.png alt="source" style="height: 200px""></img>
   <img src="https://imgur.com/B3lKsCj.png alt="heat view" style="height: 200px"></img>
   <img src="https://imgur.com/yuEvv7L.png alt="chunk view" style="height: 200px"></img>
   <br>
   Thermal temperature view | Biome chunk border view
-</h3>
+</h5>
