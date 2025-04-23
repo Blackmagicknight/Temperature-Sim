@@ -14,6 +14,6 @@ My final university project - A temperature simulation
 
 - Simple graphical interface
 <h3 align="center">
-  <img src="https://imgur.com/Ghnd707 alt="image""></img>
+  <img src="https://imgur.com/Ghnd707.png alt="image""></img>
   Random seeds | Changeable seasons | Heat/Chunk border view
 </h3>
